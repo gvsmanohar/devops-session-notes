@@ -1,0 +1,18 @@
+1. Create a directory in any folder
+2. create folder1/folder2/folder3 at once in any  directory other than /tmp and /
+3. Go to tmp directory
+4. From tmp directory goto  folder3 which you created earlier
+5. From folder 3 goto folder1  using relative path and absolute path
+6. Print home directory
+7. Print current directory you are in
+8. Print the user who you have logged in as
+9. Create a two files of any name one is hidden and other is normal
+10. List all files in current directory
+
+
+
+----
+Bonus:
+
+1. Create a file and add hello in the file.
+2.List files in /tmp from home directory

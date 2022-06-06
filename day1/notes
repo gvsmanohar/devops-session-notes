@@ -1,0 +1,51 @@
+DevOps is a process.
+
+requirements gathering
+design
+development
+unit testing
+release
+bug fixes/improvements
+
+
+
+1. Developers (develop code and build release candidates)
+
+dev - ops
+
+1. Closely works with developer and ops
+2. Provides automation practices for developers to create builds
+3. Takes care build and release process
+
+Operations team(Infrastructure provisioning, configuration, Deployments, support)
+4. Creates automation tasks ((Infrastructure provisioning, configuration, Deployments) for the ops team
+5. Automate recurring tasks not dynamic
+
+
+
+
+1. Build and Release Process
+
+1. Source code change
+2. Unit tests
+3. Code quality checks(Coding standards, code coverage, security checks)
+4. packaging
+
+DevOps talks developers to understand the process to build and release and creates pipelines for automating the build and release process
+which is called (Continous integration) CI
+
+2. Infrastructure provisoning
+ 1. Automating creation of infra (linux servers,networking,load balancers,database) for mulitiple environments(dev,stage,preprod,prod)
+ 2. Happens in cloud(AWS,AZURE,GCP)
+
+3. Configuration Managemnet
+Automating configuration management for multiple ends
+
+4. Deployments
+1. Automating Deployments
+2. Automation of running smoke /sanity tests after deployment
+
+Continous delivery(CD)
+
+
+CI-CD --

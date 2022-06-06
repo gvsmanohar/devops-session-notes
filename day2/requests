@@ -1,0 +1,38 @@
+1. GET --
+success - 200
+failure:
+  404 -- data not found or page not found
+  401 -- unauthorized issue
+  403 -- access forbidden
+  409 - conflict
+  302 -- url permanatley moved(web server redirection rules)
+  500  -- internal server error
+  502  -- invalid response to the server(bad gate)
+  503 -- service unavailable
+  504 -- time out
+
+  https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+2. POST  -- creation of some data
+  success - 201
+  failure:
+  400
+
+
+3. PUT - update and replace
+success - 201
+failure:
+400
+
+4. DELETE - delete
+success - 200
+failure:
+400
+
+5. PATCH -- update
+success - 201
+failure:
+400
+
+{ nam: sas,
+  age: hhsdhjaI }
