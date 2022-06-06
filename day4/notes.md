@@ -29,5 +29,18 @@ save and quit(:wq!)
 
 ## Search a pattern
 ```bash
-:/pattern (search a pattern and takes to first occurence and type n to got next occurence)
+:/pattern (search a pattern and takes to first occurrence and type n to got next occurrence)
 ```
+
+## Delete lines
+
+Note: Press esc or dnt be on insert mode for search delete other options in vi
+
+```bash
+
+dd    -- delete line at the cursor
+
+2dd  -- delete 2 lines form the cursor point
+ndd -- delete n lines from the cursor
+
+x -- deletes the letter at the cursor
