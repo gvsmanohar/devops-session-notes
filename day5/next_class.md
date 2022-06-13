@@ -1,0 +1,9 @@
+- grep
+- find
+- ps
+- sudo
+- permissions
+- groups
+- users
+- ls -lrt (values in output)
+- pipe command
