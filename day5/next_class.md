@@ -1,5 +1,6 @@
 - grep
 - find
+- cut
 - ps
 - sudo
 - permissions
@@ -7,3 +8,9 @@
 - users
 - ls -lrt (values in output)
 - pipe command
+- netstat
+- ifconfig
+- storage commands
+- cron
+- background process
+- systemd
