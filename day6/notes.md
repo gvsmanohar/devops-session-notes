@@ -25,6 +25,7 @@ grep -iw "\\$" grep_example
 ## man
 
 Provides the documentation for a command
+
 ```
 man command
 
@@ -58,7 +59,6 @@ cut -c1,3 cut_test
 cut -c2,4 cut_test
 cut -c2-4 cut_test
 cut -c2,4 negation_test
-negation_test
 cut -c2,4 negation_test
 cut -c2-4 negation_test
 
