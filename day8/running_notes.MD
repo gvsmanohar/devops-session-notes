@@ -1,4 +1,4 @@
-##class running notes
+## class running notes
 - useradd - to create users
   - root user - head user
   - sudo user - will get root permissions
