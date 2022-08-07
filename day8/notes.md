@@ -39,7 +39,7 @@ cat /etc/group
 # Add existing user to group
 
 ```
-sudo usermod -a -G group user
+sudo usermod -aG group user
 
 ```
 ## permissions
