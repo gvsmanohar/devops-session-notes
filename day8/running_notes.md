@@ -1,7 +1,9 @@
 ## class running notes
+```
 - useradd - to create users
   - root user - head user
   - sudo user - will get root permissions
+```
 - 'sw' - switch user
 - sudo sw - will switch your to the root user
 - to check if user is a sudo user or not
