@@ -11,7 +11,7 @@ Use sed to search a pattern file.
 ```
 Replace first occurrences of a word in a file
 ```
-syntax : sed "s/unix/linux/" sed_ex.txt
+`syntax : sed "s/unix/linux/" sed_ex.txt`
 - 's' specifies the substitution operation
 - '/' are delimiters
 - 'unix' word to be replaced or is the search pattern
