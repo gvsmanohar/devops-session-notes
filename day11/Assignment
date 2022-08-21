@@ -1,0 +1,14 @@
+1. Understand the script in class
+2. Write a script that prints a  statement
+3. Write a script to that prints the below:
+    1. env vars
+    2. disk usage
+    3. Path variable
+    4. Print current directory
+    4. List all files and dirs
+    5. who logged in
+4. Write a script
+    1. creates an file and add some content into the file
+    2. print the content in files
+    3. Provide execute permission to the file
+    4. Delete the file at the end
