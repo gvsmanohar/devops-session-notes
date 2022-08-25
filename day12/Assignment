@@ -1,0 +1,14 @@
+#
+1. Create a shell script to provide multiplication of two numbers (by reading input from user)
+2. Create a shell script to provide multiplication of two numbers (by passing args)
+3. Create a shell script to print firstname lastname and address (by passing args)
+4. Create a shell script that prints  the following:
+   1. remainder of two numbers  on two args
+   2. Sum of numbers on three args
+   3. product of numbers on four args
+5. Write a script to print number of args list of args
+6. Write a script to print the below:
+    1. number is greater than 1000
+    2. number is greater than equal 1200
+    3. number not equal to 50
+    4. number is  less than 300 and greater than equal to 200 (bonus)
