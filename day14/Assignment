@@ -1,0 +1,27 @@
+1. Write a script to print 3 power of number.
+  a. Takes inputs as number
+  b. If number is 0 print 0
+  c. If number is 1 print 1
+  d. if number is greater than 1 print the powers till 1
+
+  ```
+input:  10
+
+output:
+  the three power of 10 is 100
+  the three power of 9 is 729
+  the three power of 8 is 512
+  the three power of  7 is 343
+  the three power of  6 is 216
+  the three power of  5 is 126
+  the three power of  4 is 64
+  the three power of  3 is 27
+  the three power of  2 is 8
+  the three power of  1 is 8
+
+Write the above script using for loop ,until and while loop.
+
+Bonus: script should print any power of a number requested by user
+
+2. Write  a script to print fibanocci series of a number provided
+Write the above script using for loop ,until and while loop.
