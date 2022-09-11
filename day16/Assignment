@@ -1,0 +1,5 @@
+1. Push and existing folder to a git repo in your github account
+2. Create a branch from main do some changes and push to remote
+3. Create a branch from another branch other than main and push to remote
+4. check the logs and understand HEAD
+5. Checkout to a previous commit in a branch and switch back  to the latest commit
