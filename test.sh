@@ -1,0 +1,20 @@
+#!/bin/bash
+echo "number of fibonacci sequence to printed n=?"
+read n
+
+a=0;
+b=1;
+
+echo "$a" 
+echo "$b"
+
+while [[ $n -gt 0 ]]
+do
+c=$((a+b))
+
+echo "$c:"
+a=$b
+b=$c
+n=$((n-1))
+done
+
